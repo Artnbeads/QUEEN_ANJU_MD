@@ -19,8 +19,8 @@ module.exports = {
   "BTN_MSG": false,
   "OWNER_NAME": "MR JANIYA",
   "NEWS_JID": "1234567890@s.whatsapp.net",
-  "AUTO_TYPING": false,
-  "AUTO_RECORDING": true,
+  "AUTO_TYPING": true,
+  "AUTO_RECORDING": false,
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
   "EMOJI": "🏷"
